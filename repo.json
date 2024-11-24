@@ -1,74 +1,624 @@
 {
   "apps": [
     {
-      "name": "theta",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/theta.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/theta.ipa"
+      "name": "TrollFools_2.8-15",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.8-15.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.8-15.ipa"
     },
     {
-      "name": "iTorrent",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/iTorrent.ipa"
+      "name": "DumpDecrypter_1.4-8",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DumpDecrypter_1.4-8.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DumpDecrypter_1.4-8.ipa"
     },
     {
-      "name": "Violyn_1.4.2",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Violyn_1.4.2.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/Violyn_1.4.2.ipa"
+      "name": "TrollFools_2.8-14",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.8-14.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.8-14.ipa"
     },
     {
-      "name": "EeveeSpotify-5.8-8.9.90",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.8-8.9.90.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.8-8.9.90.ipa"
+      "name": "AppStore++_NewAPI",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_NewAPI.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppStore++_NewAPI.ipa"
     },
     {
-      "name": "TransparentIcons_1.7.2",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TransparentIcons_1.7.2.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/TransparentIcons_1.7.2.ipa"
+      "name": "MuffinStore_1.1.2",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/MuffinStore_1.1.2.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/MuffinStore_1.1.2.ipa"
     },
     {
-      "name": "EeveeSpotify-5.7-8.9.86",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.7-8.9.86.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.7-8.9.86.ipa"
+      "name": "TrollFools_2.7.11.huami",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.7.11.huami.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.7.11.huami.ipa"
     },
     {
-      "name": "EeveeSpotify-5.6-8.9.84",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.6-8.9.84.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.6-8.9.84.ipa"
+      "name": "TrollFools_2.7.huami",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.7.huami.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.7.huami.ipa"
     },
     {
-      "name": "Revenge_250.0",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Revenge_250.0.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/Revenge_250.0.ipa"
+      "name": "TrollFools_2.6_Huami",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.6_Huami.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.6_Huami.ipa"
     },
     {
-      "name": "uYouEnhanced_19.40.4-3.0.4",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/uYouEnhanced_19.40.4-3.0.4.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/uYouEnhanced_19.40.4-3.0.4.ipa"
+      "name": "TrollFools_2.6-6",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.6-6.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.6-6.ipa"
     },
     {
-      "name": "EeveeSpotify-5.4-8.9.80",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.4-8.9.80.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.4-8.9.80.ipa"
+      "name": "Fortnite-31.00-Decrypted",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Fortnite-31.00-Decrypted.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Fortnite-31.00-Decrypted.ipa"
     },
     {
-      "name": "CarrotPremium_6.1.3",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CarrotPremium_6.1.3.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/CarrotPremium_6.1.3.ipa"
+      "name": "Xinam1ne_2.2.2",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xinam1ne_2.2.2.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Xinam1ne_2.2.2.ipa"
     },
     {
-      "name": "GeniePro_7.1.2",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/GeniePro_7.1.2.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/GeniePro_7.1.2.ipa"
+      "name": "SuperIcons_2.1.4_Huami",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperIcons_2.1.4_Huami.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperIcons_2.1.4_Huami.ipa"
     },
     {
-      "name": "Regram_1.0-b10_351.0.1",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Regram_1.0-b10_351.0.1.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_351.0.1.ipa"
+      "name": "Xinam1ne_2.2.1",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xinam1ne_2.2.1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Xinam1ne_2.2.1.ipa"
     },
     {
-      "name": "DuolingoMax_7.37.1",
-      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
-      "downloadURL": "https://ipa.cypwn.xyz/ipas/DuolingoMax_7.37.1.ipa"
+      "name": "TrollFools_2.5-2_Huami",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.5-2_Huami.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.5-2_Huami.ipa"
+    },
+    {
+      "name": "TrollFools_2.4-1",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.4-1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.4-1.ipa"
+    },
+    {
+      "name": "AddonsPro-3.8",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddonsPro-3.8.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AddonsPro-3.8.ipa"
+    },
+    {
+      "name": "DowngradeApp_1.1-9",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DowngradeApp_1.1-9.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DowngradeApp_1.1-9.ipa"
+    },
+    {
+      "name": "SimLoc_1.8.5",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/SimLoc_1.8.5.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/SimLoc_1.8.5.ipa"
+    },
+    {
+      "name": "Xinam1ne_2.1.7",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xinam1ne_2.1.7.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Xinam1ne_2.1.7.ipa"
+    },
+    {
+      "name": "ChargeLimiter_1.6",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ChargeLimiter_1.6.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ChargeLimiter_1.6.ipa"
+    },
+    {
+      "name": "AppsDump2_2.0.7-1",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump2_2.0.7-1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppsDump2_2.0.7-1.ipa"
+    },
+    {
+      "name": "Addons_3.2",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Addons_3.2.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Addons_3.2.ipa"
+    },
+    {
+      "name": "TrollDecrypt",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollDecrypt.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollDecrypt.ipa"
+    },
+    {
+      "name": "DolphiniOS_4.0.0b7",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DolphiniOS_4.0.0b7.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DolphiniOS_4.0.0b7.ipa"
+    },
+    {
+      "name": "AudioRecorderTS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AudioRecorderTS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AudioRecorderTS.ipa"
+    },
+    {
+      "name": "AudioRecorderTS-NoDropbox",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AudioRecorderTS-NoDropbox.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AudioRecorderTS-NoDropbox.ipa"
+    },
+    {
+      "name": "LocSim_1.4.1k_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/LocSim_1.4.1k_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/LocSim_1.4.1k_TS.ipa"
+    },
+    {
+      "name": "Dumpy2_2.0.7",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dumpy2_2.0.7.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Dumpy2_2.0.7.ipa"
+    },
+    {
+      "name": "Xina2_2.1.6~f1",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xina2_2.1.6~f1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Xina2_2.1.6~f1.ipa"
+    },
+    {
+      "name": "Reveil_1.2.5",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Reveil_1.2.5.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Reveil_1.2.5.ipa"
+    },
+    {
+      "name": "ModMyIPA_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ModMyIPA_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ModMyIPA_TS.ipa"
+    },
+    {
+      "name": "YahooMailNoAds_7.18.0_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/YahooMailNoAds_7.18.0_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/YahooMailNoAds_7.18.0_TS.ipa"
+    },
+    {
+      "name": "Surge5",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Surge5.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Surge_5.ipa"
+    },
+    {
+      "name": "AI_Chat_1.0.2",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AI_Chat_1.0.2.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AI_Chat_1.0.2.ipa"
+    },
+    {
+      "name": "Fugu15Max",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Fugu15Max.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Fugu15Max.ipa"
+    },
+    {
+      "name": "Opener_1.11.9_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Opener_1.11.9_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Opener_1.11.9_TS.ipa"
+    },
+    {
+      "name": "AppsManagerCracked_1.8.1",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsManagerCracked_1.8.1.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppsManagerCracked_1.8.1.ipa"
+    },
+    {
+      "name": "FilzaCracked_4.0.0_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/FilzaCracked_4.0.0_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/FilzaCracked_4.0.0_TS.ipa"
+    },
+    {
+      "name": "Appabetical-0.9_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Appabetical-0.9_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Appabetical-0.9_TS.ipa"
+    },
+    {
+      "name": "NewTerm3_for_Xina_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NewTerm3_for_Xina_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NewTerm3_for_Xina_TS.ipa"
+    },
+    {
+      "name": "TweakSettings_for_Xina_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TweakSettings_for_Xina_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TweakSettings_for_Xina_TS.ipa"
+    },
+    {
+      "name": "TrollTools_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollTools_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollTools_TS.ipa"
+    },
+    {
+      "name": "Filza-NoURL_3.9.8_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Filza-NoURL_3.9.8_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Filza-NoURL_3.9.8_TS.ipa"
+    },
+    {
+      "name": "NovusPhone_36-b1_arm64e_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NovusPhone_36-b1_arm64e_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NovusPhone_36-b1_arm64e_TS.ipa"
+    },
+    {
+      "name": "NovusPhone_36-b1_arm64_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NovusPhone_36-b1_arm64_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NovusPhone_36-b1_arm64_TS.ipa"
+    },
+    {
+      "name": "AirTroller-1.1.1_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AirTroller-1.1.1_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AirTroller-1.1.1_TS.ipa"
+    },
+    {
+      "name": "BackupAZ4_Crack_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/BackupAZ4_Crack_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/BackupAZ4_Crack_TS.ipa"
+    },
+    {
+      "name": "FineReaderPDFPro_15.5.2_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/FineReaderPDFPro_15.5.2_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/FineReaderPDFPro_15.5.2_TS.ipa"
+    },
+    {
+      "name": "CarrotUltra_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CarrotUltra_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CarrotUltra_TS.ipa"
+    },
+    {
+      "name": "PandolifeApp_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/PandolifeApp_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/PandolifeApp_TS.ipa"
+    },
+    {
+      "name": "Pandolife_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Pandolife_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Pandolife_TS.ipa"
+    },
+    {
+      "name": "Santander_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Santander_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Santander_TS.ipa"
+    },
+    {
+      "name": "TrollNonce_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollNonce_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollNonce_TS.ipa"
+    },
+    {
+      "name": "Kodi_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Kodi_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Kodi_TS.ipa"
+    },
+    {
+      "name": "Mugunghwa_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Mugunghwa_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Mugunghwa_TS.ipa"
+    },
+    {
+      "name": "NetworkManager1.1-2_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NetworkManager1.1-2_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NetworkManager1.1-2_TS.ipa"
+    },
+    {
+      "name": "TrollSign_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollSign_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollSign_TS.ipa"
+    },
+    {
+      "name": "LocSim1.3.7_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/LocSim1.3.7_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/LocSim1.3.7_TS.ipa"
+    },
+    {
+      "name": "Unc0verLauncher_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0verLauncher_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0verLauncher_TS.ipa"
+    },
+    {
+      "name": "CamScannerGold_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CamScannerGold_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CamScannerGold_TS.ipa"
+    },
+    {
+      "name": "SwiftKey_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/SwiftKey_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/SwiftKey_TS.ipa"
+    },
+    {
+      "name": "DowngradeApp_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DowngradeApp_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DowngradeApp_TS.ipa"
+    },
+    {
+      "name": "NiceBattery_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NiceBattery_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NiceBattery_TS.ipa"
+    },
+    {
+      "name": "WP-Maker_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WP-Maker_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WP-Maker_TS.ipa"
+    },
+    {
+      "name": "WP-Loader_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WP-Loader_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WP-Loader_TS.ipa"
+    },
+    {
+      "name": "ControlCenter++_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ControlCenter++_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ControlCenter++_TS.ipa"
+    },
+    {
+      "name": "BatteryLife_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/BatteryLife_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/BatteryLife_TS.ipa"
+    },
+    {
+      "name": "AppInstalleriOS_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppInstalleriOS_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppInstalleriOS_TS.ipa"
+    },
+    {
+      "name": "Zebra_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Zebra_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Zebra_TS.ipa"
+    },
+    {
+      "name": "YouTuber_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/YouTuber_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/YouTuber_TS.ipa"
+    },
+    {
+      "name": "WiFiScanner_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiScanner_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WiFiScanner_TS.ipa"
+    },
+    {
+      "name": "WifiList_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WifiList_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WifiList_TS.ipa"
+    },
+    {
+      "name": "WiFiFoFumPro_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiFoFumPro_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WiFiFoFumPro_TS.ipa"
+    },
+    {
+      "name": "WallpaperSetter_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/WallpaperSetter_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/WallpaperSetter_TS.ipa"
+    },
+    {
+      "name": "Unc0ver_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0ver_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0ver_TS.ipa"
+    },
+    {
+      "name": "TSstore_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TSstore_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TSstore_TS.ipa"
+    },
+    {
+      "name": "TotPocket_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TotPocket_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TotPocket_TS.ipa"
+    },
+    {
+      "name": "TheosTips_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/TheosTips_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/TheosTips_TS.ipa"
+    },
+    {
+      "name": "Textastic_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Textastic_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Textastic_TS.ipa"
+    },
+    {
+      "name": "Supervise_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Supervise_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Supervise_TS.ipa"
+    },
+    {
+      "name": "Serial_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Serial_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Serial_TS.ipa"
+    },
+    {
+      "name": "ScreenshotX_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ScreenshotX_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ScreenshotX_TS.ipa"
+    },
+    {
+      "name": "Scarlet_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Scarlet_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Scarlet_TS.ipa"
+    },
+    {
+      "name": "RingTonesManager_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/RingTonesManager_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/RingTonesManager_TS.ipa"
+    },
+    {
+      "name": "ResolutionSetter_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ResolutionSetter_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ResolutionSetter_TS.ipa"
+    },
+    {
+      "name": "RedDot_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/RedDot_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/RedDot_TS.ipa"
+    },
+    {
+      "name": "PostBox-Pocket_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-Pocket_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-Pocket_TS.ipa"
+    },
+    {
+      "name": "PostBox_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox_TS.ipa"
+    },
+    {
+      "name": "NetflixChecker_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/NetflixChecker_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/NetflixChecker_TS.ipa"
+    },
+    {
+      "name": "MyFitnessPal_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/MyFitnessPal_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/MyFitnessPal_TS.ipa"
+    },
+    {
+      "name": "MobileTSS_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/MobileTSS_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/MobileTSS_TS.ipa"
+    },
+    {
+      "name": "Jaility_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Jaility_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Jaility_TS.ipa"
+    },
+    {
+      "name": "ITheosMaker_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ITheosMaker_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ITheosMaker_TS.ipa"
+    },
+    {
+      "name": "IPSW_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/IPSW_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/IPSW_TS.ipa"
+    },
+    {
+      "name": "InstaSpring_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/InstaSpring_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/InstaSpring_TS.ipa"
+    },
+    {
+      "name": "IMemScan_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/IMemScan_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/IMemScan_TS.ipa"
+    },
+    {
+      "name": "IGameGod_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/IGameGod_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/IGameGod_TS.ipa"
+    },
+    {
+      "name": "HarpyReloaded_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/HarpyReloaded_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/HarpyReloaded_TS.ipa"
+    },
+    {
+      "name": "Fugu15_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Fugu15_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Fugu15_TS.ipa"
+    },
+    {
+      "name": "DynaWall_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DynaWall_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DynaWall_TS.ipa"
+    },
+    {
+      "name": "Delta_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Delta_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Delta_TS.ipa"
+    },
+    {
+      "name": "DebToIPA_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/DebToIPA_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/DebToIPA_TS.ipa"
+    },
+     {
+      "name": "CrashReporter_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CrashReporter_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CrashReporter_TS.ipa"
+    },
+    {
+      "name": "ColorMyStatus_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ColorMyStatus_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ColorMyStatus_TS.ipa"
+    },
+    {
+      "name": "Cleaner_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Cleaner_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Cleaner_TS.ipa"
+    },
+    {
+      "name": "CleanMyApps_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CleanMyApps_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CleanMyApps_TS.ipa"
+    },
+    {
+      "name": "AppStore++_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppStore++_TS.ipa"
+    },
+    {
+      "name": "AppInfo_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppInfo_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppInfo_TS.ipa"
+    },
+    {
+      "name": "AppList_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppList_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppList_TS.ipa"
+    },
+    {
+      "name": "AppCleanerPro_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppCleanerPro_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppCleanerPro_TS.ipa"
+    },
+    {
+      "name": "iSH_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/iSH_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/iSH_TS.ipa"
+    },
+    {
+      "name": "iFile_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/iFile_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/iFile_TS.ipa"
+    },
+    {
+      "name": "HideMyIP_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/HideMyIP_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/HideMyIP_TS.ipa"
+    },
+    {
+      "name": "Gemini_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gemini_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Gemini_TS.ipa"
+    },
+    {
+      "name": "GamePigeon_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/GamePigeon_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/GamePigeon_TS.ipa"
+    },
+    {
+      "name": "Filza_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Filza_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Filza_TS.ipa"
+    },
+    {
+      "name": "Facebook_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Facebook_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Facebook_TS.ipa"
+    },
+    {
+      "name": "ExpressVPN_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/ExpressVPN_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/ExpressVPN_TS.ipa"
+    },
+    {
+      "name": "Documents_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Documents_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Documents_TS.ipa"
+    },
+    {
+      "name": "Discord_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Discord_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Discord_TS.ipa"
+    },
+    {
+      "name": "Checkra1n_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Checkra1n_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Checkra1n_TS.ipa"
+    },
+    {
+      "name": "BetterBatteryStats_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/BetterBatteryStats_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/BetterBatteryStats_TS.ipa"
+    },
+    {
+      "name": "AltStore_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AltStore_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AltStore_TS.ipa"
+    },
+    {
+      "name": "AppValley_TS",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppValley_TS.png",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/AppValley_TS.ipa"
     }
   ]
 }
