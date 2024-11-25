@@ -1,6 +1,11 @@
 {
   "apps": [
     {
+      "name": "Trollstore X",
+      "iconURL": "https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
+    },
+    {
       "name": "TrollFools_2.8-15",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.8-15.png",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.8-15.ipa"
