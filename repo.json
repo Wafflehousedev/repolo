@@ -1,6 +1,11 @@
 {
   "apps": [
     {
+      "name": "Pojav Launcher",
+      "iconURL": "https://i.pinimg.com/originals/56/21/d2/5621d21d7954aaed245319ecb457e9b7.jpg",
+      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa"
+    },
+    {
       "name": "Trollstore X",
       "iconURL": "https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa"
